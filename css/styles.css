@@ -1,0 +1,137 @@
+.jumbotron {
+	color: #a81c41;
+	background-image: url("../img/javascript.jpg");
+	height:300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: static;
+  bottom: 100px;
+	margin-top: 20px;
+}
+
+img {
+    height:250px;
+    width:100%;
+}
+
+.initially-hidden-1 {
+	display: none;
+}
+
+.clickable-1 {
+	cursor: pointer;
+	color: #0088cc;
+}
+
+.clickable-1:hover {
+	text-decoration: underline;
+}
+
+.initially-hidden-2 {
+	display: none;
+}
+
+.clickable-2 {
+	cursor: pointer;
+	color: #0088cc;
+}
+
+.clickable-2:hover {
+	text-decoration: underline;
+}
+
+.initially-hidden-3 {
+	display: none;
+}
+
+.clickable-3 {
+	cursor: pointer;
+	color: #0088cc;
+}
+
+.clickable-3:hover {
+	text-decoration: underline;
+}
+
+.initially-hidden-4 {
+	display: none;
+}
+
+.clickable-4 {
+	cursor: pointer;
+	color: #0088cc;
+}
+
+.clickable-4:hover {
+	text-decoration: underline;
+}
+
+.initially-hidden-5 {
+	display: none;
+}
+
+.clickable-5 {
+	cursor: pointer;
+	color: #0088cc;
+}
+
+.clickable-5:hover {
+	text-decoration: underline;
+}
+
+.initially-hidden-6 {
+	display: none;
+}
+
+.clickable-6 {
+	cursor: pointer;
+	color: #0088cc;
+}
+
+.clickable-6:hover {
+	text-decoration: underline;
+}
+
+.initially-hidden-7 {
+	display: none;
+}
+
+.clickable-7 {
+	cursor: pointer;
+	color: #0088cc;
+}
+
+.clickable-7:hover {
+	text-decoration: underline;
+}
+
+.initially-hidden-8 {
+	display: none;
+}
+
+.clickable-8 {
+	cursor: pointer;
+	color: #0088cc;
+}
+
+.clickable-8:hover {
+	text-decoration: underline;
+}
+
+.initially-hidden-9 {
+	display: none;
+}
+
+.clickable-9 {
+	cursor: pointer;
+	color: #0088cc;
+}
+
+.clickable-9:hover {
+	text-decoration: underline;
+}
+
+body {
+	padding: 10px;
+}
+
